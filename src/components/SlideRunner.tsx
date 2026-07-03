@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useApp } from "@/store/app";
-import { UI, t } from "@/i18n/translations";
+import { UI, t, type LocalizedString } from "@/i18n/translations";
 import type { Lesson, Slide } from "@/data/lessons";
 import { ChevronLeft, ChevronRight, Check, X, Sparkles, MessageCircle, Star } from "lucide-react";
 
@@ -536,7 +536,7 @@ function QuizView({
   onTask,
   onAdvance,
 }: {
-  question: { q: unknown; options: unknown[]; answer: number };
+  question: { q: LocalizedString; options: LocalizedString[]; answer: number };
   onTask: (got: number, of: number) => void;
   onAdvance: () => void;
 }) {
@@ -550,7 +550,7 @@ function QuizView({
       </div>
       <h3 className="mt-2 text-2xl font-bold md:text-3xl">{t(question.q, lang)}</h3>
       <div className="mt-5 grid gap-3 sm:grid-cols-2">
-        {question.options.map((opt: unknown, i: number) => {
+        {question.options.map((opt: LocalizedString, i: number) => {
           const isPicked = picked === i;
           const isCorrect = reveal && i === question.answer;
           const isWrong = reveal && isPicked && i !== question.answer;

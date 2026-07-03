@@ -12,11 +12,13 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
-  build: {
-    minify: true,
-    rollupOptions: {
-      output: {
-        manualChunks: undefined,
+  vite: {
+    build: {
+      minify: true,
+      rollupOptions: {
+        output: {
+          manualChunks: undefined,
+        },
       },
     },
   },
