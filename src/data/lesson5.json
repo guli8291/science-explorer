@@ -1,0 +1,130 @@
+{
+  "subject": { "kk": "Дүниетану", "ru": "Познание мира", "en": "World Studies" },
+  "lesson_title": {
+    "kk": "5-сабақ. Мектеп – ортақ үйіміз",
+    "ru": "Урок 5. Школа – наш общий дом",
+    "en": "Lesson 5. School is our common home"
+  },
+  "intro": {
+    "goals": [
+      {
+        "kk": "мектептің адам өміріндегі маңызы туралы білесің;",
+        "ru": "узнаешь о значении школы в жизни человека;",
+        "en": "learn about the role of school in a person's life;"
+      },
+      {
+        "kk": "мектепте кімдер жұмыс істейтіні туралы айтуды үйренесің.",
+        "ru": "научишься рассказывать, кто работает в школе.",
+        "en": "learn to tell who works at school."
+      }
+    ],
+    "keywords": [
+      { "kk": "мектеп", "ru": "школа", "en": "school" },
+      { "kk": "мұғалім", "ru": "учитель", "en": "teacher" }
+    ]
+  },
+  "overview": {
+    "title": {
+      "kk": "Мектеп – ортақ үйіміз",
+      "ru": "Школа – наш общий дом",
+      "en": "School is our common home"
+    },
+    "questions": [
+      {
+        "kk": "Суреттерден не көріп отырсың? Өзің оқитын мектебің туралы не білесің?",
+        "ru": "Что ты видишь на картинках? Что ты знаешь о своей школе?",
+        "en": "What do you see in the pictures? What do you know about your school?"
+      },
+      {
+        "kk": "Балалар мектепке не үшін барады? Сен мектепте не үйренгің келеді?",
+        "ru": "Зачем дети ходят в школу? Чему ты хочешь научиться в школе?",
+        "en": "Why do children go to school? What do you want to learn at school?"
+      }
+    ]
+  },
+  "rule_block": {
+    "rule": {
+      "kk": "Барлық оқушы мектеп ережесін сақтауға міндетті.",
+      "ru": "Каждый ученик обязан соблюдать школьные правила.",
+      "en": "Every pupil must follow the school rules."
+    },
+    "task": {
+      "kk": "Өз ойыңды айт. Мектептің қандай ережелерін сақтап, орындап жүрсің?",
+      "ru": "Скажи своё мнение. Какие школьные правила ты соблюдаешь?",
+      "en": "Share your opinion. Which school rules do you follow?"
+    }
+  },
+  "classroom_block": {
+    "title": {
+      "kk": "Мектепте не бар?",
+      "ru": "Что есть в школе?",
+      "en": "What is there at school?"
+    },
+    "question": {
+      "kk": "«Сынып» дегеніңе не деп ойлайсың?",
+      "ru": "Как ты думаешь, что такое «класс»?",
+      "en": "What do you think a 'classroom' is?"
+    }
+  },
+  "rooms_block": {
+    "intro": {
+      "kk": "Мектеп – білім ордасы. Онда жарық әрі кең сынып бөлмелері бар.",
+      "ru": "Школа – храм знаний. В ней есть светлые и просторные классы.",
+      "en": "School is a house of knowledge. It has bright and spacious classrooms."
+    },
+    "questions": [
+      {
+        "kk": "Мектептің суреттегі бөлмелері қалай аталады? Онда кімдер жұмыс істейді? Оқушылар не істеп жатыр?",
+        "ru": "Как называются комнаты школы на рисунке? Кто там работает? Что делают ученики?",
+        "en": "What are the school rooms in the picture called? Who works there? What are the pupils doing?"
+      },
+      {
+        "kk": "Өзің оқитын мектебіңнің қай бөлмелерінде болдың? Дәрігер, кітапхана, спортзал бөлмесі нешінші қабатта орналасқан?",
+        "ru": "В каких комнатах своей школы ты был? На каком этаже кабинет врача, библиотека, спортзал?",
+        "en": "Which rooms of your school have you visited? On what floor are the nurse, library, and gym?"
+      }
+    ]
+  },
+  "answer_task": {
+    "title": { "kk": "Ойланып жауап бер.", "ru": "Подумай и ответь.", "en": "Think and answer." },
+    "prompt": {
+      "kk": "Мектепте тағы кімдер жұмыс істейді? Сурет бойынша ата.",
+      "ru": "Кто ещё работает в школе? Расскажи по картинке.",
+      "en": "Who else works at school? Tell using the picture."
+    }
+  },
+  "role_task": {
+    "title": { "kk": "Өзің орында.", "ru": "Сделай сам.", "en": "Do it yourself." },
+    "intro": {
+      "kk": "Мұғалім сұрағына оқушы қалай жауап бергені дұрыс?",
+      "ru": "Как правильно ученику отвечать на вопрос учителя?",
+      "en": "How should a pupil answer the teacher correctly?"
+    },
+    "rules": [
+      {
+        "kk": "Қолыңды көтеріп, орныңнан тұрып, сұраққа жауап беріп көрсет.",
+        "ru": "Подними руку, встань и ответь на вопрос.",
+        "en": "Raise your hand, stand up and answer."
+      },
+      {
+        "kk": "Партада қалай отыру керектігін көрсет. Оқу құралдарыңды партаға қалай қоясың?",
+        "ru": "Покажи, как нужно сидеть за партой. Как ты раскладываешь школьные принадлежности?",
+        "en": "Show how to sit at the desk. How do you place your supplies on it?"
+      }
+    ]
+  },
+  "research_task": {
+    "title": { "kk": "Зерттеп көр.", "ru": "Исследуй.", "en": "Investigate." },
+    "prompt": {
+      "kk": "Мектепте жұмыс істемейтін мамандарды белгіле.",
+      "ru": "Отметь профессии, которые НЕ работают в школе.",
+      "en": "Mark the professions that do NOT work at school."
+    },
+    "options": [
+      { "label": { "kk": "Мұғалім", "ru": "Учитель", "en": "Teacher" }, "atSchool": true },
+      { "label": { "kk": "Геолог", "ru": "Геолог", "en": "Geologist" }, "atSchool": false },
+      { "label": { "kk": "Медбике", "ru": "Медсестра", "en": "Nurse" }, "atSchool": true },
+      { "label": { "kk": "Ғарышкер", "ru": "Космонавт", "en": "Astronaut" }, "atSchool": false }
+    ]
+  }
+}

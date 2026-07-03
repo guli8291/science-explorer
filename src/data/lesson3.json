@@ -1,0 +1,174 @@
+{
+  "subject": { "kk": "Дүниетану", "ru": "Познание мира", "en": "World Discovery" },
+  "lesson_number": 3,
+  "lesson_title": {
+    "kk": "3-сабақ. Бір аптада неше күн бар?",
+    "ru": "Урок 3. Сколько дней в неделе?",
+    "en": "Lesson 3. How many days in a week?"
+  },
+  "intro_page": {
+    "goals": [
+      {
+        "kk": "Сабақтың соңында сен апта күндерін ретімен атай аласың және жұмыс күндерінің демалыс күндерінен айырмашылығын білетін боласың.",
+        "ru": "К концу урока ты сможешь легко называть все дни недели по порядку и узнаешь, чем рабочие дни отличаются от выходных.",
+        "en": "By the end of the lesson, you will be able to easily name all the days of the week in order and know the difference between weekdays and weekends."
+      }
+    ],
+    "keywords": [
+      { "kk": "Тәулік", "ru": "Сутки", "en": "Day (24 hours)" },
+      { "kk": "Апта", "ru": "Неделя", "en": "Week" },
+      { "kk": "Жұмыс күндері", "ru": "Будни", "en": "Weekdays" },
+      { "kk": "Демалыс күндері", "ru": "Выходные", "en": "Weekend" }
+    ]
+  },
+  "theory_pages": [
+    {
+      "page_id": 1,
+      "title": { "kk": "Тәулік дегеніміз не?", "ru": "Что такое сутки?", "en": "What is a day?" },
+      "paragraphs": [
+        {
+          "kk": "Тәулік — бұл біздің ғаламшарымыздың бір толық айналым жасайтын уақыты.",
+          "ru": "Сутки — это время, за которое наша планета делает один полный оборот.",
+          "en": "A day is the time it takes for our planet to make one full rotation."
+        },
+        {
+          "kk": "Есте сақтау оңай болу үшін тәулік төрт бөліктен тұрады: Таң (біз оянғанда), Күн (біз оқып, ойнағанда), Кеш (отбасы жиналғанда) және Түн (барлығы ұйықтағанда).",
+          "ru": "Чтобы было проще запомнить, сутки состоят из четырех частей: Утро (когда мы просыпаемся), День (когда мы учимся и играем), Вечер (когда семья собирается вместе) и Ночь (когда все спят).",
+          "en": "To make it easier to remember, a day consists of four parts: Morning (when we wake up), Day (when we learn and play), Evening (when the family gathers together) and Night (when everyone sleeps)."
+        }
+      ],
+      "media_placeholder": {
+        "type": "interactive_image",
+        "description": "Разделенный на 4 части круг с иллюстрациями утра, дня, вечера и ночи. Ребенок может нажать на каждую часть круга, и она подсвечивается."
+      }
+    },
+    {
+      "page_id": 2,
+      "title": {
+        "kk": "Апта неден тұрады?",
+        "ru": "Из чего состоит неделя?",
+        "en": "What does a week consist of?"
+      },
+      "paragraphs": [
+        {
+          "kk": "Егер толық жеті тәулікті біріктірсе, бір Апта шығады!",
+          "ru": "Если собрать вместе целых семь суток, то получится одна Неделя!",
+          "en": "If you put seven whole days together, you get one Week!"
+        },
+        {
+          "kk": "Аптаның әр күнінің өз атауы және біріншіден жетіншіге дейінгі реттік нөмірі бар.",
+          "ru": "У каждого дня в неделе есть свое имя и свой порядковый номер — от первого до седьмого.",
+          "en": "Each day in the week has its own name and its own sequence number — from first to seventh."
+        }
+      ],
+      "media_placeholder": {
+        "type": "image",
+        "description": "Поезд с 7 разноцветными вагончиками, на которых написаны цифры от 1 до 7."
+      }
+    },
+    {
+      "page_id": 3,
+      "title": { "kk": "Жұмыс күндері", "ru": "Рабочие дни (Будни)", "en": "Weekdays" },
+      "paragraphs": [
+        {
+          "kk": "Аптаның алғашқы бес күні жұмыс күндері деп аталады. Бұл күндері ересектер жұмысқа барады, ал сен мектепке барып, жаңа білім аласың.",
+          "ru": "Первые пять дней недели называются рабочими или буднями. В эти дни взрослые ходят на работу, а ты ходишь в школу и получаешь новые знания.",
+          "en": "The first five days of the week are called weekdays. On these days, adults go to work, and you go to school and gain new knowledge."
+        },
+        {
+          "kk": "Олар: Дүйсенбі, Сейсенбі, Сәрсенбі, Бейсенбі, Жұма.",
+          "ru": "Это: Понедельник, Вторник, Среда, Четверг, Пятница.",
+          "en": "They are: Monday, Tuesday, Wednesday, Thursday, Friday."
+        }
+      ],
+      "media_placeholder": {
+        "type": "image",
+        "description": "Картинки детей с рюкзаками, школьной доски."
+      }
+    },
+    {
+      "page_id": 4,
+      "title": {
+        "kk": "Демалыс күндері",
+        "ru": "Дни отдыха (Выходные)",
+        "en": "Weekend (Rest days)"
+      },
+      "paragraphs": [
+        {
+          "kk": "Бес жұмыс күнінен кейін екі демалыс күні келеді. Бұл демалыс күндері!",
+          "ru": "После пяти рабочих дней наступают два дня отдыха. Это выходные!",
+          "en": "After five weekdays come two days of rest. This is the weekend!"
+        },
+        {
+          "kk": "Бұл күндері біз ұзағырақ ұйықтап, отбасымызбен серуендеп, достарымызбен ойнай аламыз. Олар: Сенбі және Жексенбі.",
+          "ru": "В эти дни мы можем дольше спать, гулять с семьей и играть с друзьями. Это: Суббота и Воскресенье.",
+          "en": "On these days we can sleep longer, walk with our family and play with friends. They are: Saturday and Sunday."
+        }
+      ],
+      "media_placeholder": {
+        "type": "image",
+        "description": "Семья на пикнике или дети, играющие в мяч на улице."
+      }
+    },
+    {
+      "page_id": 5,
+      "title": {
+        "kk": "Уақыттан қалай шатаспауға болады?",
+        "ru": "Как не запутаться во времени?",
+        "en": "How not to get confused in time?"
+      },
+      "paragraphs": [
+        {
+          "kk": "Күндер туралы дұрыс айту үшін біз арнайы сөздерді қолданамыз.",
+          "ru": "Чтобы правильно говорить о днях, мы используем специальные слова.",
+          "en": "To correctly talk about days, we use special words."
+        },
+        {
+          "kk": "Кеше: өтіп кеткен күн. Бүгін: дәл қазір болып жатқан күн. Ертең: әлі келмеген күн, ол түннен кейін болады.",
+          "ru": "Вчера: день, который уже прошел. Сегодня: день, который идет прямо сейчас. Завтра: день, который еще не наступил, он будет после ночи.",
+          "en": "Yesterday: the day that has already passed. Today: the day that is going on right now. Tomorrow: the day that has not yet come, it will be after the night."
+        }
+      ],
+      "media_placeholder": {
+        "type": "interactive_drag_and_drop",
+        "description": "Маленькое задание-перетаскивание (Drag & Drop), где нужно распределить события."
+      }
+    }
+  ],
+  "remember_block": {
+    "title": { "kk": "Сен жарайсың!", "ru": "Ты молодец!", "en": "Well done!" },
+    "text": {
+      "kk": "Бүгін сен өте жақсы жұмыс істедің! Енді сен тәулікте таң, күн, кеш және түн бар екенін білесің. Аптада дәл 7 күн бар. 5 күн біз оқимыз (жұмыс күндері), ал 2 күн демаламыз (демалыс күндері).",
+      "ru": "Сегодня ты отлично поработал! Теперь ты знаешь, что в сутках есть утро, день, вечер и ночь. В неделе ровно 7 дней. 5 дней мы учимся (будни), а 2 дня отдыхаем (выходные).",
+      "en": "You did a great job today! Now you know that a day has morning, afternoon, evening and night. There are exactly 7 days in a week. We study for 5 days (weekdays) and rest for 2 days (weekend)."
+    }
+  },
+  "interactive_quiz": {
+    "instruction": {
+      "kk": "Пойыз вагондарына дұрыс ретпен тұруға көмектес.",
+      "ru": "Помоги вагончикам поезда встать в правильном порядке.",
+      "en": "Help the train cars get in the right order."
+    },
+    "questions": [
+      {
+        "question_id": 1,
+        "type": "reorder",
+        "question_text": {
+          "kk": "Апта күндерін ретімен орналастыр",
+          "ru": "Расставь дни недели по порядку",
+          "en": "Arrange the days of the week in order"
+        },
+        "options": [
+          { "kk": "Дүйсенбі", "ru": "Понедельник", "en": "Monday" },
+          { "kk": "Сейсенбі", "ru": "Вторник", "en": "Tuesday" },
+          { "kk": "Сәрсенбі", "ru": "Среда", "en": "Wednesday" },
+          { "kk": "Бейсенбі", "ru": "Четверг", "en": "Thursday" },
+          { "kk": "Жұма", "ru": "Пятница", "en": "Friday" },
+          { "kk": "Сенбі", "ru": "Суббота", "en": "Saturday" },
+          { "kk": "Жексенбі", "ru": "Воскресенье", "en": "Sunday" }
+        ],
+        "correct_answer": "[0, 1, 2, 3, 4, 5, 6]"
+      }
+    ]
+  }
+}

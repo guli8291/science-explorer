@@ -1,0 +1,177 @@
+{
+  "subject": { "kk": "Дүниетану", "ru": "Познание мира", "en": "World Discovery" },
+  "lesson_number": 4,
+  "lesson_title": {
+    "kk": "4-сабақ. Отбасы өмірі",
+    "ru": "Урок 4. Семейная жизнь",
+    "en": "Lesson 4. Family life"
+  },
+  "intro": {
+    "goals": [
+      {
+        "kk": "Қамқорлық дегеннің не екенін білесің.",
+        "ru": "Узнаешь, что такое забота.",
+        "en": "You will learn what care means."
+      },
+      {
+        "kk": "Өз отбасың туралы айтып беруді үйренесің.",
+        "ru": "Научишься рассказывать о своей семье.",
+        "en": "You will learn to talk about your family."
+      }
+    ],
+    "keywords": [
+      { "kk": "отбасы", "ru": "семья", "en": "family" },
+      { "kk": "қамқорлық", "ru": "забота", "en": "care" }
+    ]
+  },
+  "intro_text": {
+    "title": {
+      "kk": "Отбасы қалай өмір сүреді?",
+      "ru": "Как живёт семья?",
+      "en": "How does a family live?"
+    },
+    "paragraphs": [
+      {
+        "kk": "Әр адамның өз отбасы бар. Отбасы — ең жақын түйе адамдар. Отбасы мүшелері бір-бірімен сыйласып, қамқорлық көрсетеді.",
+        "ru": "У каждого человека есть своя семья. Семья — это самые близкие люди. Члены семьи уважают друг друга и заботятся друг о друге.",
+        "en": "Every person has a family. A family is the closest people. Family members respect and care for each other."
+      },
+      {
+        "kk": "Мынау — Ақмаралдың отбасы.",
+        "ru": "Это — семья Акмарал.",
+        "en": "This is Akmaral's family."
+      }
+    ]
+  },
+  "family_questions": {
+    "title": { "kk": "Ақмаралдың отбасы", "ru": "Семья Акмарал", "en": "Akmaral's family" },
+    "questions": [
+      {
+        "kk": "Ақмаралдың отбасы мүшелерін ата.",
+        "ru": "Назови членов семьи Акмарал.",
+        "en": "Name the members of Akmaral's family."
+      },
+      {
+        "kk": "Әкесі мен анасы қайда жұмыс істейді?",
+        "ru": "Где работают её папа и мама?",
+        "en": "Where do her dad and mom work?"
+      },
+      {
+        "kk": "Атасы мен әжесі және балалар немен айналысады?",
+        "ru": "Чем занимаются дедушка, бабушка и дети?",
+        "en": "What do the grandfather, grandmother and children do?"
+      },
+      {
+        "kk": "Ақмаралдың отбасы бір-біріне қамқор бола алады ма?",
+        "ru": "Заботятся ли члены семьи Акмарал друг о друге?",
+        "en": "Do the members of Akmaral's family care for each other?"
+      }
+    ]
+  },
+  "care_block": {
+    "title": { "kk": "Қамқорлық деген не?", "ru": "Что такое забота?", "en": "What is care?" },
+    "definition": {
+      "kk": "Қамқорлық — көмек беру, қайырымдылық таныту.",
+      "ru": "Забота — это помощь и проявление доброты.",
+      "en": "Care means helping and showing kindness."
+    },
+    "questions": [
+      {
+        "kk": "Суретте балаларға қандай қамқорлық көрсетіліп жатыр?",
+        "ru": "Какую заботу о детях показывает картинка?",
+        "en": "What care for the children is shown in the picture?"
+      },
+      {
+        "kk": "Сен өз отбасыңа қандай қамқорлық көрсетесің?",
+        "ru": "Какую заботу ты проявляешь о своей семье?",
+        "en": "How do you care for your family?"
+      },
+      {
+        "kk": "Тағы не істей алатыныңды айтып бер.",
+        "ru": "Расскажи, что ещё ты можешь делать.",
+        "en": "Tell what else you can do."
+      }
+    ]
+  },
+  "value_block": {
+    "kk": "Отбасыдағы ең басты құндылық — сыйластық пен қамқорлық. Үлкендерге көмектесуді, кішілерге қамқор болуды дағдыла.",
+    "ru": "Главная ценность в семье — уважение и забота. Помогай старшим и заботься о младших.",
+    "en": "The most important value in a family is respect and care. Help your elders and care for the little ones."
+  },
+  "task_block": {
+    "title": {
+      "kk": "Тапсырма. Өз отбасың туралы айтып бер.",
+      "ru": "Задание. Расскажи о своей семье.",
+      "en": "Task. Tell about your family."
+    },
+    "prompts": [
+      {
+        "kk": "Отбасы мүшелерін ата. Олар саған кім болатынын айт.",
+        "ru": "Назови членов семьи. Скажи, кем они тебе приходятся.",
+        "en": "Name your family members. Say how they are related to you."
+      },
+      {
+        "kk": "Кешкі уақытты және демалыс күндерін қалай өткізесіңдер?",
+        "ru": "Как вы проводите вечера и выходные?",
+        "en": "How do you spend evenings and weekends?"
+      },
+      {
+        "kk": "Сендер қандай істі бірге істегенді ұнатасыңдар?",
+        "ru": "Какое дело вы любите делать вместе?",
+        "en": "What do you like to do together?"
+      }
+    ]
+  },
+  "recap_block": {
+    "title": {
+      "kk": "«Өзім туралы» бөлімінен",
+      "ru": "Из раздела «О себе»",
+      "en": "From the chapter \"About me\""
+    },
+    "you_learned": [
+      {
+        "kk": "оқушы деп кімді атайтынын;",
+        "ru": "кого называют учеником;",
+        "en": "who is called a pupil;"
+      },
+      {
+        "kk": "күн тәртібі деген не екенін;",
+        "ru": "что такое режим дня;",
+        "en": "what a daily routine is;"
+      },
+      {
+        "kk": "апта күндерін, тәулік уақыттарын атауды;",
+        "ru": "называть дни недели и время суток;",
+        "en": "to name the days of the week and times of day;"
+      },
+      {
+        "kk": "қамқорлық деген не екенін білдің.",
+        "ru": "что такое забота.",
+        "en": "what care is."
+      }
+    ],
+    "questions": [
+      {
+        "kk": "Әрбір оқушы нені үйрену керек?",
+        "ru": "Что нужно учить каждому ученику?",
+        "en": "What must every pupil learn?"
+      },
+      {
+        "kk": "Күн тәртібін не үшін сақтау қажет?",
+        "ru": "Зачем нужно соблюдать режим дня?",
+        "en": "Why do we need a daily routine?"
+      },
+      {
+        "kk": "Аптада неше күн бар?",
+        "ru": "Сколько дней в неделе?",
+        "en": "How many days are in a week?"
+      },
+      { "kk": "Отбасы деген не?", "ru": "Что такое семья?", "en": "What is a family?" }
+    ],
+    "final_task": {
+      "kk": "Суретте қандай уақытты бейнелеген? Суреттердің бір-бірінен қандай айырмашылығы бар? Түсіндір.",
+      "ru": "Какое время суток показано на картинках? В чём разница между ними? Объясни.",
+      "en": "What times of day are shown in the pictures? What is the difference between them? Explain."
+    }
+  }
+}

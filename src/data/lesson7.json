@@ -1,0 +1,96 @@
+{
+  "subject": { "kk": "Дүниетану", "ru": "Познание мира", "en": "World Studies" },
+  "lesson_title": {
+    "kk": "7-сабақ. Мектеп ережелері",
+    "ru": "Урок 7. Школьные правила",
+    "en": "Lesson 7. School rules"
+  },
+  "intro": {
+    "goals": [
+      {
+        "kk": "мектеп ережелері туралы білесің;",
+        "ru": "узнаешь о школьных правилах;",
+        "en": "learn about school rules;"
+      },
+      {
+        "kk": "мектептегі тәртіп ережелерін сақтауды үйренесің.",
+        "ru": "научишься соблюдать правила поведения в школе.",
+        "en": "learn to follow the rules of conduct at school."
+      }
+    ],
+    "keywords": [
+      { "kk": "тәртіп", "ru": "дисциплина", "en": "discipline" },
+      { "kk": "ереже", "ru": "правило", "en": "rule" }
+    ]
+  },
+  "overview": {
+    "title": { "kk": "Мектеп ережелері", "ru": "Школьные правила", "en": "School rules" },
+    "paragraphs": [
+      {
+        "kk": "Сенің қасыңда үнемі адамдар болады. Мектепте – мұғалімдерің мен сыныптастарың. Үйде – отбасың. Аулада – көршілерің мен достарың. Автобуста – бейтаныс жолаушылар.",
+        "ru": "Рядом с тобой всегда есть люди. В школе – учителя и одноклассники. Дома – семья. Во дворе – соседи и друзья. В автобусе – незнакомые пассажиры.",
+        "en": "There are always people around you. At school – teachers and classmates. At home – your family. In the yard – neighbours and friends. On the bus – strangers."
+      },
+      {
+        "kk": "Сен кез келген жерде тәртіп сақтауың керек. Мектептің тәртібін, тазалығын сақтауға ұжымдағылардың бәрі қатысады.",
+        "ru": "Везде нужно соблюдать порядок. В поддержании дисциплины и чистоты школы участвуют все.",
+        "en": "You must keep order everywhere. Keeping discipline and cleanliness at school is everyone's job."
+      }
+    ]
+  },
+  "questions_block": {
+    "questions": [
+      {
+        "kk": "Мектеп ережесі деген не?",
+        "ru": "Что такое школьное правило?",
+        "en": "What is a school rule?"
+      },
+      {
+        "kk": "Мектеп ережесі не үшін қажет?",
+        "ru": "Зачем нужны школьные правила?",
+        "en": "Why are school rules needed?"
+      },
+      {
+        "kk": "Суреттерге қара. Қай суретте мектеп ережесі сақталған?",
+        "ru": "Посмотри на картинки. На какой соблюдается школьное правило?",
+        "en": "Look at the pictures. In which one is the school rule being followed?"
+      }
+    ],
+    "conclusion": {
+      "kk": "Мектептің өз ережелері бар. Сен оның көпшілігін білесің әрі оған бағынасың.",
+      "ru": "У школы есть свои правила. Большинство из них ты знаешь и соблюдаешь.",
+      "en": "School has its own rules. You know most of them and follow them."
+    }
+  },
+  "picture_block": {
+    "question": {
+      "kk": "Суреттерге қара. Суретші қандай тәртіп сақтау ережесі туралы айтқысы келді?",
+      "ru": "Посмотри на картинки. О каком правиле дисциплины хотел рассказать художник?",
+      "en": "Look at the pictures. Which rule of discipline did the artist want to show?"
+    },
+    "remember": {
+      "kk": "Мектепте және қоғамдық орында айналандағы адамдарға кедергі келтірме.",
+      "ru": "В школе и в общественных местах не мешай окружающим.",
+      "en": "At school and in public places, do not disturb people around you."
+    }
+  },
+  "tasks": {
+    "title": { "kk": "Тапсырмалар", "ru": "Задания", "en": "Tasks" },
+    "analyze": {
+      "title": { "kk": "Талдайық.", "ru": "Проанализируем.", "en": "Let's analyse." },
+      "prompt": {
+        "kk": "Мектеп ережелері болмаса, не болар еді? Өз ойыңды айтып бер.",
+        "ru": "Что было бы, если бы не было школьных правил? Поделись своим мнением.",
+        "en": "What would happen if there were no school rules? Share your opinion."
+      }
+    },
+    "think": {
+      "title": { "kk": "Ойланып көр.", "ru": "Подумай.", "en": "Think it over." },
+      "prompt": {
+        "kk": "Мектеп ережелерін сақтау не үшін маңызды?",
+        "ru": "Почему важно соблюдать школьные правила?",
+        "en": "Why is it important to follow school rules?"
+      }
+    }
+  }
+}

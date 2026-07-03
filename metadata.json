@@ -1,0 +1,6 @@
+{
+  "name": "Science Explorer",
+  "description": "Интерактивные уроки для детей 6–7 лет.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
